@@ -290,6 +290,20 @@ footer  {
     }
 }
 
+@media (max-width: 950px) {
+.second {
+    height: 60vh;
+}
+.third {
+    height: auto;
+    padding-bottom: 40px;
+}
+
+.images {
+    width: 600px;
+}
+}
+
 @media (max-width: 820px) {
 
 .nav_wrapper {
